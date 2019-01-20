@@ -5,7 +5,6 @@
 	    "machinetype": "f1-micro"
     },
 
-{
  "builders": [
  {
  "type": "googlecompute",
