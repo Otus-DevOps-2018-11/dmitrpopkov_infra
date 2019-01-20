@@ -2,7 +2,7 @@
     "variables": {
 	    "projectid": null,
 	    "sourceimagefamily": null,
-	    "machinetype": null
+	    "machinetype": "f1-micro"
     },
 
 {
