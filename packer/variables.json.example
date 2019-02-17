@@ -1,5 +1,6 @@
 {
-   "projectid": "infra-220394",
-   "sourceimagefamily": "ubuntu-1604-lts",
-   "machinetype": "f1-micro"
+   "project_id": "infra-220394",
+	"source_image_family":"image",
+	"machine_type":"machine_type",
+	"ssh_username":"user"
 }
